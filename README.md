@@ -67,11 +67,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Brian-Pob/frontend-mentor/pull/13) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
-2. 🎉 Merged PR [#9](https://github.com/Brian-Pob/swe2_proshop_mern/pull/9) in [Brian-Pob/swe2_proshop_mern](https://github.com/Brian-Pob/swe2_proshop_mern)
-3. 🗣 Commented on [#9](https://github.com/Brian-Pob/swe2_proshop_mern/issues/9) in [Brian-Pob/swe2_proshop_mern](https://github.com/Brian-Pob/swe2_proshop_mern)
-4. 💪 Opened PR [#5888](https://github.com/EddieHubCommunity/LinkFree/pull/5888) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. 💪 Opened PR [#7](https://github.com/Brian-Pob/swe2_proshop_mern/pull/7) in [Brian-Pob/swe2_proshop_mern](https://github.com/Brian-Pob/swe2_proshop_mern)
+1. 💪 Opened PR [#10](https://github.com/Brian-Pob/swe2_proshop_mern/pull/10) in [Brian-Pob/swe2_proshop_mern](https://github.com/Brian-Pob/swe2_proshop_mern)
+2. 🎉 Merged PR [#13](https://github.com/Brian-Pob/frontend-mentor/pull/13) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
+3. 🎉 Merged PR [#9](https://github.com/Brian-Pob/swe2_proshop_mern/pull/9) in [Brian-Pob/swe2_proshop_mern](https://github.com/Brian-Pob/swe2_proshop_mern)
+4. 🗣 Commented on [#9](https://github.com/Brian-Pob/swe2_proshop_mern/issues/9) in [Brian-Pob/swe2_proshop_mern](https://github.com/Brian-Pob/swe2_proshop_mern)
+5. 💪 Opened PR [#5888](https://github.com/EddieHubCommunity/LinkFree/pull/5888) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
 ###
