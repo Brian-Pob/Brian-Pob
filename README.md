@@ -67,11 +67,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/Brian-Pob/swe2_proshop_mern/pull/15) in [Brian-Pob/swe2_proshop_mern](https://github.com/Brian-Pob/swe2_proshop_mern)
-2. 🎉 Merged PR [#14](https://github.com/Brian-Pob/swe2_proshop_mern/pull/14) in [Brian-Pob/swe2_proshop_mern](https://github.com/Brian-Pob/swe2_proshop_mern)
-3. 🎉 Merged PR [#12](https://github.com/Brian-Pob/swe2_proshop_mern/pull/12) in [Brian-Pob/swe2_proshop_mern](https://github.com/Brian-Pob/swe2_proshop_mern)
-4. 💪 Opened PR [#10](https://github.com/Brian-Pob/swe2_proshop_mern/pull/10) in [Brian-Pob/swe2_proshop_mern](https://github.com/Brian-Pob/swe2_proshop_mern)
-5. 🎉 Merged PR [#13](https://github.com/Brian-Pob/frontend-mentor/pull/13) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
+1. 🎉 Merged PR [#16](https://github.com/Brian-Pob/swe2_proshop_mern/pull/16) in [Brian-Pob/swe2_proshop_mern](https://github.com/Brian-Pob/swe2_proshop_mern)
+2. 💪 Opened PR [#15](https://github.com/Brian-Pob/swe2_proshop_mern/pull/15) in [Brian-Pob/swe2_proshop_mern](https://github.com/Brian-Pob/swe2_proshop_mern)
+3. 🎉 Merged PR [#14](https://github.com/Brian-Pob/swe2_proshop_mern/pull/14) in [Brian-Pob/swe2_proshop_mern](https://github.com/Brian-Pob/swe2_proshop_mern)
+4. 🎉 Merged PR [#12](https://github.com/Brian-Pob/swe2_proshop_mern/pull/12) in [Brian-Pob/swe2_proshop_mern](https://github.com/Brian-Pob/swe2_proshop_mern)
+5. 💪 Opened PR [#10](https://github.com/Brian-Pob/swe2_proshop_mern/pull/10) in [Brian-Pob/swe2_proshop_mern](https://github.com/Brian-Pob/swe2_proshop_mern)
 <!--END_SECTION:activity-->
 
 ###
