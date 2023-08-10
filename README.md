@@ -67,11 +67,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28469](https://github.com/mdn/content/issues/28469#issuecomment-1672583121) in [mdn/content](https://github.com/mdn/content)
-2. ❗ Opened issue [#28469](https://github.com/mdn/content/issues/28469) in [mdn/content](https://github.com/mdn/content)
-3. 💪 Opened PR [#19](https://github.com/Brian-Pob/frontend-mentor/pull/19) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
-4. ❌ Closed PR [#17](https://github.com/Brian-Pob/frontend-mentor/pull/17) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
-5. 🎉 Merged PR [#18](https://github.com/Brian-Pob/frontend-mentor/pull/18) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
+1. 💪 Opened PR [#28491](https://github.com/mdn/content/pull/28491) in [mdn/content](https://github.com/mdn/content)
+2. 🗣 Commented on [#28469](https://github.com/mdn/content/issues/28469#issuecomment-1672583121) in [mdn/content](https://github.com/mdn/content)
+3. ❗ Opened issue [#28469](https://github.com/mdn/content/issues/28469) in [mdn/content](https://github.com/mdn/content)
+4. 💪 Opened PR [#19](https://github.com/Brian-Pob/frontend-mentor/pull/19) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
+5. ❌ Closed PR [#17](https://github.com/Brian-Pob/frontend-mentor/pull/17) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
 <!--END_SECTION:activity-->
 
 ###
