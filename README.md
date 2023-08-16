@@ -67,11 +67,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1558](https://github.com/open-sauced/insights/issues/1558) in [open-sauced/insights](https://github.com/open-sauced/insights)
-2. ❗ Opened issue [#484](https://github.com/w3c/html-aria/issues/484) in [w3c/html-aria](https://github.com/w3c/html-aria)
-3. 🗣 Commented on [#25190](https://github.com/mdn/content/issues/25190#issuecomment-1680132675) in [mdn/content](https://github.com/mdn/content)
-4. 🗣 Commented on [#28446](https://github.com/mdn/content/issues/28446#issuecomment-1680121607) in [mdn/content](https://github.com/mdn/content)
-5. 💪 Opened PR [#28578](https://github.com/mdn/content/pull/28578) in [mdn/content](https://github.com/mdn/content)
+1. 🗣 Commented on [#484](https://github.com/w3c/html-aria/issues/484#issuecomment-1681113830) in [w3c/html-aria](https://github.com/w3c/html-aria)
+2. 🔒 Closed issue [#237](https://github.com/solidjs/solid-docs-next/issues/237) in [solidjs/solid-docs-next](https://github.com/solidjs/solid-docs-next)
+3. ❗ Opened issue [#1558](https://github.com/open-sauced/insights/issues/1558) in [open-sauced/insights](https://github.com/open-sauced/insights)
+4. ❗ Opened issue [#484](https://github.com/w3c/html-aria/issues/484) in [w3c/html-aria](https://github.com/w3c/html-aria)
+5. 🗣 Commented on [#25190](https://github.com/mdn/content/issues/25190#issuecomment-1680132675) in [mdn/content](https://github.com/mdn/content)
 <!--END_SECTION:activity-->
 
 ###
