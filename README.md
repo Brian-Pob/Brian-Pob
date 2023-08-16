@@ -67,11 +67,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/Brian-Pob/frontend-mentor/pull/22) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
-2. 🎉 Merged PR [#21](https://github.com/Brian-Pob/frontend-mentor/pull/21) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
-3. 💪 Opened PR [#21](https://github.com/Brian-Pob/frontend-mentor/pull/21) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
-4. 🎉 Merged PR [#20](https://github.com/Brian-Pob/frontend-mentor/pull/20) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
-5. 💪 Opened PR [#20](https://github.com/Brian-Pob/frontend-mentor/pull/20) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
+1. 🎉 Merged PR [#22](https://github.com/Brian-Pob/frontend-mentor/pull/22) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
+2. 💪 Opened PR [#22](https://github.com/Brian-Pob/frontend-mentor/pull/22) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
+3. 🎉 Merged PR [#21](https://github.com/Brian-Pob/frontend-mentor/pull/21) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
+4. 💪 Opened PR [#21](https://github.com/Brian-Pob/frontend-mentor/pull/21) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
+5. 🎉 Merged PR [#20](https://github.com/Brian-Pob/frontend-mentor/pull/20) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
 <!--END_SECTION:activity-->
 
 ###
