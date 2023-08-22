@@ -67,11 +67,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1581](https://github.com/open-sauced/app/pull/1581#issuecomment-1688107742) in [open-sauced/app](https://github.com/open-sauced/app)
-2. 🗣 Commented on [#1581](https://github.com/open-sauced/app/pull/1581#issuecomment-1686960848) in [open-sauced/app](https://github.com/open-sauced/app)
-3. 🗣 Commented on [#1581](https://github.com/open-sauced/app/pull/1581#issuecomment-1686945250) in [open-sauced/app](https://github.com/open-sauced/app)
-4. 🗣 Commented on [#28602](https://github.com/mdn/content/pull/28602#issuecomment-1686614511) in [mdn/content](https://github.com/mdn/content)
-5. 🗣 Commented on [#1581](https://github.com/open-sauced/insights/pull/1581#issuecomment-1685710655) in [open-sauced/insights](https://github.com/open-sauced/insights)
+1. 🗣 Commented on [#28602](https://github.com/mdn/content/pull/28602#issuecomment-1688190245) in [mdn/content](https://github.com/mdn/content)
+2. 🗣 Commented on [#1581](https://github.com/open-sauced/app/pull/1581#issuecomment-1688107742) in [open-sauced/app](https://github.com/open-sauced/app)
+3. 🗣 Commented on [#1581](https://github.com/open-sauced/app/pull/1581#issuecomment-1686960848) in [open-sauced/app](https://github.com/open-sauced/app)
+4. 🗣 Commented on [#1581](https://github.com/open-sauced/app/pull/1581#issuecomment-1686945250) in [open-sauced/app](https://github.com/open-sauced/app)
+5. 🗣 Commented on [#28602](https://github.com/mdn/content/pull/28602#issuecomment-1686614511) in [mdn/content](https://github.com/mdn/content)
 <!--END_SECTION:activity-->
 
 ###
