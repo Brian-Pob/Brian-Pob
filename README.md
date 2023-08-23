@@ -12,11 +12,11 @@
 
 👀 - I'm mainly a front-end web dev but I love all things computer science!
 
-🌱 - Currently majoring in Computer Science B.S. at Florida State University.
+🌱 - Currently majoring in Computer Science M.S. at Florida State University.
 
-🧠 - Learning and experimenting with the following technologies: TypeScript, SolidJS, TailwindCSS.
+🧠 - Learning and experimenting with the following technologies: TypeScript, SolidJS, View Transitions API.
 
-💙 - Actively participating in the SolidJS community with contributions to the [new docs site](https://github.com/solidjs/solid-docs-next).
+💙 - Honing my skills in accessibile design and documentation writing. I've recently made contributions to the official [MDN](https://github.com/mdn/content) docs.
 
 ###
 
