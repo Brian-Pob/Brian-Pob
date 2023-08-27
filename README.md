@@ -67,11 +67,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1581](https://github.com/open-sauced/app/pull/1581#issuecomment-1689266909) in [open-sauced/app](https://github.com/open-sauced/app)
-2. ❌ Closed PR [#1581](https://github.com/open-sauced/app/pull/1581) in [open-sauced/app](https://github.com/open-sauced/app)
-3. ❗ Opened issue [#24](https://github.com/open-sauced/feedback/issues/24) in [open-sauced/feedback](https://github.com/open-sauced/feedback)
-4. 🗣 Commented on [#28602](https://github.com/mdn/content/pull/28602#issuecomment-1688190245) in [mdn/content](https://github.com/mdn/content)
-5. 🗣 Commented on [#1581](https://github.com/open-sauced/app/pull/1581#issuecomment-1688107742) in [open-sauced/app](https://github.com/open-sauced/app)
+1. 💪 Opened PR [#1](https://github.com/Daverhan/david-silva-portfolio/pull/1) in [Daverhan/david-silva-portfolio](https://github.com/Daverhan/david-silva-portfolio)
+2. 🗣 Commented on [#1581](https://github.com/open-sauced/app/pull/1581#issuecomment-1689266909) in [open-sauced/app](https://github.com/open-sauced/app)
+3. ❌ Closed PR [#1581](https://github.com/open-sauced/app/pull/1581) in [open-sauced/app](https://github.com/open-sauced/app)
+4. ❗ Opened issue [#24](https://github.com/open-sauced/feedback/issues/24) in [open-sauced/feedback](https://github.com/open-sauced/feedback)
+5. 🗣 Commented on [#28602](https://github.com/mdn/content/pull/28602#issuecomment-1688190245) in [mdn/content](https://github.com/mdn/content)
 <!--END_SECTION:activity-->
 
 ###
