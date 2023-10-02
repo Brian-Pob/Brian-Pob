@@ -67,11 +67,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#240](https://github.com/kobaltedev/kobalte/issues/240#issuecomment-1736372682) in [kobaltedev/kobalte](https://github.com/kobaltedev/kobalte)
-2. 🎉 Merged PR [#26](https://github.com/Brian-Pob/frontend-mentor/pull/26) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
-3. 💪 Opened PR [#26](https://github.com/Brian-Pob/frontend-mentor/pull/26) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
-4. 💪 Opened PR [#1](https://github.com/Daverhan/david-silva-portfolio/pull/1) in [Daverhan/david-silva-portfolio](https://github.com/Daverhan/david-silva-portfolio)
-5. 🗣 Commented on [#1581](https://github.com/open-sauced/app/pull/1581#issuecomment-1689266909) in [open-sauced/app](https://github.com/open-sauced/app)
+1. 🎉 Merged PR [#27](https://github.com/Brian-Pob/frontend-mentor/pull/27) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
+2. 💪 Opened PR [#27](https://github.com/Brian-Pob/frontend-mentor/pull/27) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
+3. 🗣 Commented on [#240](https://github.com/kobaltedev/kobalte/issues/240#issuecomment-1736372682) in [kobaltedev/kobalte](https://github.com/kobaltedev/kobalte)
+4. 🎉 Merged PR [#26](https://github.com/Brian-Pob/frontend-mentor/pull/26) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
+5. 💪 Opened PR [#26](https://github.com/Brian-Pob/frontend-mentor/pull/26) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
 <!--END_SECTION:activity-->
 
 ###
