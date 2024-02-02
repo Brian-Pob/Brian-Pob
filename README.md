@@ -69,11 +69,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.2](https://github.com/Brian-Pob/utilities/releases/tag/v1.0.2) in [Brian-Pob/utilities](https://github.com/Brian-Pob/utilities)
-2. ❗ Opened issue [#31952](https://github.com/mdn/content/issues/31952) in [mdn/content](https://github.com/mdn/content)
-3. 🚀 Published release [v1.0.1](https://github.com/Brian-Pob/utilities/releases/tag/v1.0.1) in [Brian-Pob/utilities](https://github.com/Brian-Pob/utilities)
-4. 🚀 Published release [Initial release](https://github.com/Brian-Pob/utilities/releases/tag/v1) in [Brian-Pob/utilities](https://github.com/Brian-Pob/utilities)
-5. 🎉 Merged PR [#26](https://github.com/Brian-Pob/frontend-mentor/pull/26) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
+1. ❗ Opened issue [#467](https://github.com/argyleink/open-props/issues/467) in [argyleink/open-props](https://github.com/argyleink/open-props)
+2. 🚀 Published release [v1.0.2](https://github.com/Brian-Pob/utilities/releases/tag/v1.0.2) in [Brian-Pob/utilities](https://github.com/Brian-Pob/utilities)
+3. ❗ Opened issue [#31952](https://github.com/mdn/content/issues/31952) in [mdn/content](https://github.com/mdn/content)
+4. 🚀 Published release [v1.0.1](https://github.com/Brian-Pob/utilities/releases/tag/v1.0.1) in [Brian-Pob/utilities](https://github.com/Brian-Pob/utilities)
+5. 🚀 Published release [Initial release](https://github.com/Brian-Pob/utilities/releases/tag/v1) in [Brian-Pob/utilities](https://github.com/Brian-Pob/utilities)
 <!--END_SECTION:activity-->
 
 ###
