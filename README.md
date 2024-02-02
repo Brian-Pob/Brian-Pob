@@ -12,11 +12,13 @@
 
 👀 - I'm mainly a front-end web dev but I love all things computer science!
 
-🌱 - Currently majoring in Computer Science M.S. at Florida State University.
+🌱 - Currently a graduate student at Florida State University getting my master's degree in Computer Science.
+
+🎓 - I'm also a research assistant for the FSU Dept. of Computer Science.
 
 🧠 - Learning and experimenting with the following technologies: TypeScript, SolidJS, View Transitions API.
 
-💙 - Honing my skills in accessibile design and documentation writing. I've recently made contributions to the official [MDN](https://github.com/mdn/content) docs.
+💙 - Honing my skills in accessibile design and documentation writing. Previous contributions include the [MDN](https://github.com/mdn/content) docs.
 
 ###
 
