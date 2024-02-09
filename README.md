@@ -69,11 +69,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#467](https://github.com/argyleink/open-props/issues/467#issuecomment-1931311795) in [argyleink/open-props](https://github.com/argyleink/open-props)
-2. 🗣 Commented on [#467](https://github.com/argyleink/open-props/issues/467#issuecomment-1928197172) in [argyleink/open-props](https://github.com/argyleink/open-props)
-3. 🗣 Commented on [#437](https://github.com/argyleink/open-props/issues/437#issuecomment-1922752167) in [argyleink/open-props](https://github.com/argyleink/open-props)
-4. ❗ Opened issue [#467](https://github.com/argyleink/open-props/issues/467) in [argyleink/open-props](https://github.com/argyleink/open-props)
-5. 🚀 Published release [v1.0.2](https://github.com/Brian-Pob/utilities/releases/tag/v1.0.2) in [Brian-Pob/utilities](https://github.com/Brian-Pob/utilities)
+1. 🗣 Commented on [#467](https://github.com/argyleink/open-props/issues/467#issuecomment-1935151311) in [argyleink/open-props](https://github.com/argyleink/open-props)
+2. 🗣 Commented on [#467](https://github.com/argyleink/open-props/issues/467#issuecomment-1931311795) in [argyleink/open-props](https://github.com/argyleink/open-props)
+3. 🗣 Commented on [#467](https://github.com/argyleink/open-props/issues/467#issuecomment-1928197172) in [argyleink/open-props](https://github.com/argyleink/open-props)
+4. 🗣 Commented on [#437](https://github.com/argyleink/open-props/issues/437#issuecomment-1922752167) in [argyleink/open-props](https://github.com/argyleink/open-props)
+5. ❗ Opened issue [#467](https://github.com/argyleink/open-props/issues/467) in [argyleink/open-props](https://github.com/argyleink/open-props)
 <!--END_SECTION:activity-->
 
 ###
