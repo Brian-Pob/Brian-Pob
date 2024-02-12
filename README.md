@@ -69,11 +69,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#19](https://github.com/RiskChallenger/open-components/issues/19) in [RiskChallenger/open-components](https://github.com/RiskChallenger/open-components)
-2. 🗣 Commented on [#467](https://github.com/argyleink/open-props/issues/467#issuecomment-1936848525) in [argyleink/open-props](https://github.com/argyleink/open-props)
-3. 🗣 Commented on [#467](https://github.com/argyleink/open-props/issues/467#issuecomment-1935151311) in [argyleink/open-props](https://github.com/argyleink/open-props)
-4. 🗣 Commented on [#467](https://github.com/argyleink/open-props/issues/467#issuecomment-1931311795) in [argyleink/open-props](https://github.com/argyleink/open-props)
-5. 🗣 Commented on [#467](https://github.com/argyleink/open-props/issues/467#issuecomment-1928197172) in [argyleink/open-props](https://github.com/argyleink/open-props)
+1. 🗣 Commented on [#19](https://github.com/RiskChallenger/open-components/issues/19#issuecomment-1939250643) in [RiskChallenger/open-components](https://github.com/RiskChallenger/open-components)
+2. ❗ Opened issue [#19](https://github.com/RiskChallenger/open-components/issues/19) in [RiskChallenger/open-components](https://github.com/RiskChallenger/open-components)
+3. 🗣 Commented on [#467](https://github.com/argyleink/open-props/issues/467#issuecomment-1936848525) in [argyleink/open-props](https://github.com/argyleink/open-props)
+4. 🗣 Commented on [#467](https://github.com/argyleink/open-props/issues/467#issuecomment-1935151311) in [argyleink/open-props](https://github.com/argyleink/open-props)
+5. 🗣 Commented on [#467](https://github.com/argyleink/open-props/issues/467#issuecomment-1931311795) in [argyleink/open-props](https://github.com/argyleink/open-props)
 <!--END_SECTION:activity-->
 
 ###
