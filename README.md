@@ -69,11 +69,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#417](https://github.com/picocss/pico/issues/417#issuecomment-1949824937) in [picocss/pico](https://github.com/picocss/pico)
-2. 🎉 Merged PR [#28](https://github.com/Brian-Pob/frontend-mentor/pull/28) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
-3. 💪 Opened PR [#28](https://github.com/Brian-Pob/frontend-mentor/pull/28) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
-4. 🚀 Published release [v1.0.3](https://github.com/Brian-Pob/utilities/releases/tag/v1.0.3) in [Brian-Pob/utilities](https://github.com/Brian-Pob/utilities)
-5. 🗣 Commented on [#19](https://github.com/RiskChallenger/open-components/issues/19#issuecomment-1939297527) in [RiskChallenger/open-components](https://github.com/RiskChallenger/open-components)
+1. 🗣 Commented on [#434](https://github.com/picocss/pico/issues/434#issuecomment-1949881146) in [picocss/pico](https://github.com/picocss/pico)
+2. 🗣 Commented on [#417](https://github.com/picocss/pico/issues/417#issuecomment-1949824937) in [picocss/pico](https://github.com/picocss/pico)
+3. 🎉 Merged PR [#28](https://github.com/Brian-Pob/frontend-mentor/pull/28) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
+4. 💪 Opened PR [#28](https://github.com/Brian-Pob/frontend-mentor/pull/28) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
+5. 🚀 Published release [v1.0.3](https://github.com/Brian-Pob/utilities/releases/tag/v1.0.3) in [Brian-Pob/utilities](https://github.com/Brian-Pob/utilities)
 <!--END_SECTION:activity-->
 
 ###
