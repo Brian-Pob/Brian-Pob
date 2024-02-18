@@ -69,11 +69,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#434](https://github.com/picocss/pico/issues/434#issuecomment-1951434866) in [picocss/pico](https://github.com/picocss/pico)
-2. 🗣 Commented on [#434](https://github.com/picocss/pico/issues/434#issuecomment-1951433942) in [picocss/pico](https://github.com/picocss/pico)
-3. 🗣 Commented on [#434](https://github.com/picocss/pico/issues/434#issuecomment-1949881146) in [picocss/pico](https://github.com/picocss/pico)
-4. 🗣 Commented on [#417](https://github.com/picocss/pico/issues/417#issuecomment-1949824937) in [picocss/pico](https://github.com/picocss/pico)
-5. 🎉 Merged PR [#28](https://github.com/Brian-Pob/frontend-mentor/pull/28) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
+1. 🗣 Commented on [#449](https://github.com/picocss/pico/issues/449#issuecomment-1951438980) in [picocss/pico](https://github.com/picocss/pico)
+2. 🗣 Commented on [#434](https://github.com/picocss/pico/issues/434#issuecomment-1951434866) in [picocss/pico](https://github.com/picocss/pico)
+3. 🗣 Commented on [#434](https://github.com/picocss/pico/issues/434#issuecomment-1951433942) in [picocss/pico](https://github.com/picocss/pico)
+4. 🗣 Commented on [#434](https://github.com/picocss/pico/issues/434#issuecomment-1949881146) in [picocss/pico](https://github.com/picocss/pico)
+5. 🗣 Commented on [#417](https://github.com/picocss/pico/issues/417#issuecomment-1949824937) in [picocss/pico](https://github.com/picocss/pico)
 <!--END_SECTION:activity-->
 
 ###
