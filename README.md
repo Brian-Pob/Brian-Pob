@@ -69,11 +69,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Brian-Pob/brianmp.dev/issues/1) in [Brian-Pob/brianmp.dev](https://github.com/Brian-Pob/brianmp.dev)
-2. 🗣 Commented on [#467](https://github.com/argyleink/open-props/issues/467#issuecomment-1955887208) in [argyleink/open-props](https://github.com/argyleink/open-props)
-3. 🗣 Commented on [#417](https://github.com/picocss/pico/issues/417#issuecomment-1951448709) in [picocss/pico](https://github.com/picocss/pico)
-4. 🗣 Commented on [#449](https://github.com/picocss/pico/issues/449#issuecomment-1951438980) in [picocss/pico](https://github.com/picocss/pico)
-5. 🗣 Commented on [#434](https://github.com/picocss/pico/issues/434#issuecomment-1951434866) in [picocss/pico](https://github.com/picocss/pico)
+1. 💪 Opened PR [#10240](https://github.com/withastro/astro/pull/10240) in [withastro/astro](https://github.com/withastro/astro)
+2. ❗ Opened issue [#1](https://github.com/Brian-Pob/brianmp.dev/issues/1) in [Brian-Pob/brianmp.dev](https://github.com/Brian-Pob/brianmp.dev)
+3. 🗣 Commented on [#467](https://github.com/argyleink/open-props/issues/467#issuecomment-1955887208) in [argyleink/open-props](https://github.com/argyleink/open-props)
+4. 🗣 Commented on [#417](https://github.com/picocss/pico/issues/417#issuecomment-1951448709) in [picocss/pico](https://github.com/picocss/pico)
+5. 🗣 Commented on [#449](https://github.com/picocss/pico/issues/449#issuecomment-1951438980) in [picocss/pico](https://github.com/picocss/pico)
 <!--END_SECTION:activity-->
 
 ###
