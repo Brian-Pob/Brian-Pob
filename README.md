@@ -69,11 +69,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/Brian-Pob/frontend-mentor/pull/29) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
-2. 💪 Opened PR [#29](https://github.com/Brian-Pob/frontend-mentor/pull/29) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
-3. 🔒 Closed issue [#1](https://github.com/Brian-Pob/brianmp.dev/issues/1) in [Brian-Pob/brianmp.dev](https://github.com/Brian-Pob/brianmp.dev)
-4. 🗣 Commented on [#2](https://github.com/Brian-Pob/brianmp.dev/pull/2#issuecomment-1970447824) in [Brian-Pob/brianmp.dev](https://github.com/Brian-Pob/brianmp.dev)
-5. ❌ Closed PR [#2](https://github.com/Brian-Pob/brianmp.dev/pull/2) in [Brian-Pob/brianmp.dev](https://github.com/Brian-Pob/brianmp.dev)
+1. 🗣 Commented on [#467](https://github.com/argyleink/open-props/issues/467#issuecomment-1975060161) in [argyleink/open-props](https://github.com/argyleink/open-props)
+2. 🎉 Merged PR [#29](https://github.com/Brian-Pob/frontend-mentor/pull/29) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
+3. 💪 Opened PR [#29](https://github.com/Brian-Pob/frontend-mentor/pull/29) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
+4. 🔒 Closed issue [#1](https://github.com/Brian-Pob/brianmp.dev/issues/1) in [Brian-Pob/brianmp.dev](https://github.com/Brian-Pob/brianmp.dev)
+5. 🗣 Commented on [#2](https://github.com/Brian-Pob/brianmp.dev/pull/2#issuecomment-1970447824) in [Brian-Pob/brianmp.dev](https://github.com/Brian-Pob/brianmp.dev)
 <!--END_SECTION:activity-->
 
 ###
