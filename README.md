@@ -69,11 +69,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/RiskChallenger/open-components/issues/19#issuecomment-1986976083) in [RiskChallenger/open-components](https://github.com/RiskChallenger/open-components)
-2. 🎉 Merged PR [#30](https://github.com/Brian-Pob/frontend-mentor/pull/30) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
-3. 💪 Opened PR [#30](https://github.com/Brian-Pob/frontend-mentor/pull/30) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
-4. 🗣 Commented on [#467](https://github.com/argyleink/open-props/issues/467#issuecomment-1977651665) in [argyleink/open-props](https://github.com/argyleink/open-props)
-5. 🗣 Commented on [#462](https://github.com/picocss/pico/issues/462#issuecomment-1975065680) in [picocss/pico](https://github.com/picocss/pico)
+1. 🗣 Commented on [#926](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/926#issuecomment-2002643814) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
+2. 🗣 Commented on [#19](https://github.com/RiskChallenger/open-components/issues/19#issuecomment-1986976083) in [RiskChallenger/open-components](https://github.com/RiskChallenger/open-components)
+3. 🎉 Merged PR [#30](https://github.com/Brian-Pob/frontend-mentor/pull/30) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
+4. 💪 Opened PR [#30](https://github.com/Brian-Pob/frontend-mentor/pull/30) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
+5. 🗣 Commented on [#467](https://github.com/argyleink/open-props/issues/467#issuecomment-1977651665) in [argyleink/open-props](https://github.com/argyleink/open-props)
 <!--END_SECTION:activity-->
 
 ###
