@@ -69,11 +69,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Brian-Pob/stackedup/issues/2#issuecomment-2018641621) in [Brian-Pob/stackedup](https://github.com/Brian-Pob/stackedup)
-2. 🔒 Closed issue [#1](https://github.com/Brian-Pob/stackedup/issues/1) in [Brian-Pob/stackedup](https://github.com/Brian-Pob/stackedup)
-3. 🗣 Commented on [#1](https://github.com/Brian-Pob/stackedup/issues/1#issuecomment-2018633964) in [Brian-Pob/stackedup](https://github.com/Brian-Pob/stackedup)
-4. 🚀 Published release [Add index.html file](https://github.com/Brian-Pob/utilities/releases/tag/v1.0.4) in [Brian-Pob/utilities](https://github.com/Brian-Pob/utilities)
-5. 🗣 Commented on [#483](https://github.com/argyleink/open-props/issues/483#issuecomment-2016717363) in [argyleink/open-props](https://github.com/argyleink/open-props)
+1. ❗ Opened issue [#780](https://github.com/firebase/quickstart-js/issues/780) in [firebase/quickstart-js](https://github.com/firebase/quickstart-js)
+2. 🗣 Commented on [#2](https://github.com/Brian-Pob/stackedup/issues/2#issuecomment-2018641621) in [Brian-Pob/stackedup](https://github.com/Brian-Pob/stackedup)
+3. 🔒 Closed issue [#1](https://github.com/Brian-Pob/stackedup/issues/1) in [Brian-Pob/stackedup](https://github.com/Brian-Pob/stackedup)
+4. 🗣 Commented on [#1](https://github.com/Brian-Pob/stackedup/issues/1#issuecomment-2018633964) in [Brian-Pob/stackedup](https://github.com/Brian-Pob/stackedup)
+5. 🚀 Published release [Add index.html file](https://github.com/Brian-Pob/utilities/releases/tag/v1.0.4) in [Brian-Pob/utilities](https://github.com/Brian-Pob/utilities)
 <!--END_SECTION:activity-->
 
 ###
