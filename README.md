@@ -69,11 +69,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#534](https://github.com/solidjs/solid-site/pull/534) in [solidjs/solid-site](https://github.com/solidjs/solid-site)
-2. 🗣 Commented on [#525](https://github.com/remeda/remeda/pull/525#issuecomment-2022200416) in [remeda/remeda](https://github.com/remeda/remeda)
-3. 🗣 Commented on [#525](https://github.com/remeda/remeda/pull/525#issuecomment-2022145780) in [remeda/remeda](https://github.com/remeda/remeda)
-4. ❗ Opened issue [#780](https://github.com/firebase/quickstart-js/issues/780) in [firebase/quickstart-js](https://github.com/firebase/quickstart-js)
-5. 🗣 Commented on [#2](https://github.com/Brian-Pob/stackedup/issues/2#issuecomment-2018641621) in [Brian-Pob/stackedup](https://github.com/Brian-Pob/stackedup)
+1. 🗣 Commented on [#534](https://github.com/solidjs/solid-site/pull/534#issuecomment-2024599455) in [solidjs/solid-site](https://github.com/solidjs/solid-site)
+2. 💪 Opened PR [#534](https://github.com/solidjs/solid-site/pull/534) in [solidjs/solid-site](https://github.com/solidjs/solid-site)
+3. 🗣 Commented on [#525](https://github.com/remeda/remeda/pull/525#issuecomment-2022200416) in [remeda/remeda](https://github.com/remeda/remeda)
+4. 🗣 Commented on [#525](https://github.com/remeda/remeda/pull/525#issuecomment-2022145780) in [remeda/remeda](https://github.com/remeda/remeda)
+5. ❗ Opened issue [#780](https://github.com/firebase/quickstart-js/issues/780) in [firebase/quickstart-js](https://github.com/firebase/quickstart-js)
 <!--END_SECTION:activity-->
 
 ###
