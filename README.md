@@ -69,11 +69,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#89](https://github.com/mkrl/misbrands/pull/89) in [mkrl/misbrands](https://github.com/mkrl/misbrands)
-2. 🗣 Commented on [#534](https://github.com/solidjs/solid-site/pull/534#issuecomment-2024599455) in [solidjs/solid-site](https://github.com/solidjs/solid-site)
-3. 💪 Opened PR [#534](https://github.com/solidjs/solid-site/pull/534) in [solidjs/solid-site](https://github.com/solidjs/solid-site)
-4. 🗣 Commented on [#525](https://github.com/remeda/remeda/pull/525#issuecomment-2022200416) in [remeda/remeda](https://github.com/remeda/remeda)
-5. 🗣 Commented on [#525](https://github.com/remeda/remeda/pull/525#issuecomment-2022145780) in [remeda/remeda](https://github.com/remeda/remeda)
+1. 🎉 Merged PR [#1](https://github.com/Brian-Pob/sp-24-hci/pull/1) in [Brian-Pob/sp-24-hci](https://github.com/Brian-Pob/sp-24-hci)
+2. 💪 Opened PR [#1](https://github.com/Brian-Pob/sp-24-hci/pull/1) in [Brian-Pob/sp-24-hci](https://github.com/Brian-Pob/sp-24-hci)
+3. 💪 Opened PR [#89](https://github.com/mkrl/misbrands/pull/89) in [mkrl/misbrands](https://github.com/mkrl/misbrands)
+4. 🗣 Commented on [#534](https://github.com/solidjs/solid-site/pull/534#issuecomment-2024599455) in [solidjs/solid-site](https://github.com/solidjs/solid-site)
+5. 💪 Opened PR [#534](https://github.com/solidjs/solid-site/pull/534) in [solidjs/solid-site](https://github.com/solidjs/solid-site)
 <!--END_SECTION:activity-->
 
 ###
