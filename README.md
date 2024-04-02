@@ -69,11 +69,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Brian-Pob/sp-24-hci/pull/7) in [Brian-Pob/sp-24-hci](https://github.com/Brian-Pob/sp-24-hci)
-2. 💪 Opened PR [#7](https://github.com/Brian-Pob/sp-24-hci/pull/7) in [Brian-Pob/sp-24-hci](https://github.com/Brian-Pob/sp-24-hci)
-3. 🎉 Merged PR [#6](https://github.com/Brian-Pob/sp-24-hci/pull/6) in [Brian-Pob/sp-24-hci](https://github.com/Brian-Pob/sp-24-hci)
-4. 💪 Opened PR [#6](https://github.com/Brian-Pob/sp-24-hci/pull/6) in [Brian-Pob/sp-24-hci](https://github.com/Brian-Pob/sp-24-hci)
-5. 🎉 Merged PR [#5](https://github.com/Brian-Pob/sp-24-hci/pull/5) in [Brian-Pob/sp-24-hci](https://github.com/Brian-Pob/sp-24-hci)
+1. 🎉 Merged PR [#8](https://github.com/Brian-Pob/sp-24-hci/pull/8) in [Brian-Pob/sp-24-hci](https://github.com/Brian-Pob/sp-24-hci)
+2. 💪 Opened PR [#8](https://github.com/Brian-Pob/sp-24-hci/pull/8) in [Brian-Pob/sp-24-hci](https://github.com/Brian-Pob/sp-24-hci)
+3. 🎉 Merged PR [#7](https://github.com/Brian-Pob/sp-24-hci/pull/7) in [Brian-Pob/sp-24-hci](https://github.com/Brian-Pob/sp-24-hci)
+4. 💪 Opened PR [#7](https://github.com/Brian-Pob/sp-24-hci/pull/7) in [Brian-Pob/sp-24-hci](https://github.com/Brian-Pob/sp-24-hci)
+5. 🎉 Merged PR [#6](https://github.com/Brian-Pob/sp-24-hci/pull/6) in [Brian-Pob/sp-24-hci](https://github.com/Brian-Pob/sp-24-hci)
 <!--END_SECTION:activity-->
 
 ###
