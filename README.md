@@ -69,11 +69,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Brian-Pob/open-props/pull/1) in [Brian-Pob/open-props](https://github.com/Brian-Pob/open-props)
-2. ❗ Opened issue [#1](https://github.com/Brian-Pob/tailwind-v4-vite/issues/1) in [Brian-Pob/tailwind-v4-vite](https://github.com/Brian-Pob/tailwind-v4-vite)
-3. ❗ Opened issue [#13441](https://github.com/tailwindlabs/tailwindcss/issues/13441) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-4. 🗣 Commented on [#534](https://github.com/solidjs/solid-site/pull/534#issuecomment-2031334133) in [solidjs/solid-site](https://github.com/solidjs/solid-site)
-5. ❗ Opened issue [#9](https://github.com/Brian-Pob/sp-24-hci/issues/9) in [Brian-Pob/sp-24-hci](https://github.com/Brian-Pob/sp-24-hci)
+1. 💪 Opened PR [#489](https://github.com/argyleink/open-props/pull/489) in [argyleink/open-props](https://github.com/argyleink/open-props)
+2. ❌ Closed PR [#1](https://github.com/Brian-Pob/open-props/pull/1) in [Brian-Pob/open-props](https://github.com/Brian-Pob/open-props)
+3. 💪 Opened PR [#1](https://github.com/Brian-Pob/open-props/pull/1) in [Brian-Pob/open-props](https://github.com/Brian-Pob/open-props)
+4. ❗ Opened issue [#1](https://github.com/Brian-Pob/tailwind-v4-vite/issues/1) in [Brian-Pob/tailwind-v4-vite](https://github.com/Brian-Pob/tailwind-v4-vite)
+5. ❗ Opened issue [#13441](https://github.com/tailwindlabs/tailwindcss/issues/13441) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
 <!--END_SECTION:activity-->
 
 ###
