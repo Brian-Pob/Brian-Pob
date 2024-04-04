@@ -69,11 +69,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#13441](https://github.com/tailwindlabs/tailwindcss/issues/13441) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-2. 🗣 Commented on [#534](https://github.com/solidjs/solid-site/pull/534#issuecomment-2031334133) in [solidjs/solid-site](https://github.com/solidjs/solid-site)
-3. ❗ Opened issue [#9](https://github.com/Brian-Pob/sp-24-hci/issues/9) in [Brian-Pob/sp-24-hci](https://github.com/Brian-Pob/sp-24-hci)
-4. 🎉 Merged PR [#8](https://github.com/Brian-Pob/sp-24-hci/pull/8) in [Brian-Pob/sp-24-hci](https://github.com/Brian-Pob/sp-24-hci)
-5. 💪 Opened PR [#8](https://github.com/Brian-Pob/sp-24-hci/pull/8) in [Brian-Pob/sp-24-hci](https://github.com/Brian-Pob/sp-24-hci)
+1. ❗ Opened issue [#1](https://github.com/Brian-Pob/tailwind-v4-vite/issues/1) in [Brian-Pob/tailwind-v4-vite](https://github.com/Brian-Pob/tailwind-v4-vite)
+2. ❗ Opened issue [#13441](https://github.com/tailwindlabs/tailwindcss/issues/13441) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+3. 🗣 Commented on [#534](https://github.com/solidjs/solid-site/pull/534#issuecomment-2031334133) in [solidjs/solid-site](https://github.com/solidjs/solid-site)
+4. ❗ Opened issue [#9](https://github.com/Brian-Pob/sp-24-hci/issues/9) in [Brian-Pob/sp-24-hci](https://github.com/Brian-Pob/sp-24-hci)
+5. 🎉 Merged PR [#8](https://github.com/Brian-Pob/sp-24-hci/pull/8) in [Brian-Pob/sp-24-hci](https://github.com/Brian-Pob/sp-24-hci)
 <!--END_SECTION:activity-->
 
 ###
