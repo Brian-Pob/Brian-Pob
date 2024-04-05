@@ -69,11 +69,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13441](https://github.com/tailwindlabs/tailwindcss/issues/13441#issuecomment-2039295940) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-2. 💪 Opened PR [#489](https://github.com/argyleink/open-props/pull/489) in [argyleink/open-props](https://github.com/argyleink/open-props)
-3. ❌ Closed PR [#1](https://github.com/Brian-Pob/open-props/pull/1) in [Brian-Pob/open-props](https://github.com/Brian-Pob/open-props)
-4. 💪 Opened PR [#1](https://github.com/Brian-Pob/open-props/pull/1) in [Brian-Pob/open-props](https://github.com/Brian-Pob/open-props)
-5. ❗ Opened issue [#1](https://github.com/Brian-Pob/tailwind-v4-vite/issues/1) in [Brian-Pob/tailwind-v4-vite](https://github.com/Brian-Pob/tailwind-v4-vite)
+1. 💪 Opened PR [#1](https://github.com/DicksenT/Comment-Section/pull/1) in [DicksenT/Comment-Section](https://github.com/DicksenT/Comment-Section)
+2. 🗣 Commented on [#13441](https://github.com/tailwindlabs/tailwindcss/issues/13441#issuecomment-2039295940) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+3. 💪 Opened PR [#489](https://github.com/argyleink/open-props/pull/489) in [argyleink/open-props](https://github.com/argyleink/open-props)
+4. ❌ Closed PR [#1](https://github.com/Brian-Pob/open-props/pull/1) in [Brian-Pob/open-props](https://github.com/Brian-Pob/open-props)
+5. 💪 Opened PR [#1](https://github.com/Brian-Pob/open-props/pull/1) in [Brian-Pob/open-props](https://github.com/Brian-Pob/open-props)
 <!--END_SECTION:activity-->
 
 ###
