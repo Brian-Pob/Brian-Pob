@@ -69,11 +69,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13457](https://github.com/tailwindlabs/tailwindcss/pull/13457#issuecomment-2040334084) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-2. 🗣 Commented on [#13457](https://github.com/tailwindlabs/tailwindcss/pull/13457#issuecomment-2040316009) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-3. 💪 Opened PR [#1](https://github.com/DicksenT/Comment-Section/pull/1) in [DicksenT/Comment-Section](https://github.com/DicksenT/Comment-Section)
-4. 🗣 Commented on [#13441](https://github.com/tailwindlabs/tailwindcss/issues/13441#issuecomment-2039295940) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-5. 💪 Opened PR [#489](https://github.com/argyleink/open-props/pull/489) in [argyleink/open-props](https://github.com/argyleink/open-props)
+1. 🎉 Merged PR [#10](https://github.com/Brian-Pob/sp-24-hci/pull/10) in [Brian-Pob/sp-24-hci](https://github.com/Brian-Pob/sp-24-hci)
+2. 🗣 Commented on [#13457](https://github.com/tailwindlabs/tailwindcss/pull/13457#issuecomment-2040334084) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+3. 🗣 Commented on [#13457](https://github.com/tailwindlabs/tailwindcss/pull/13457#issuecomment-2040316009) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+4. 💪 Opened PR [#1](https://github.com/DicksenT/Comment-Section/pull/1) in [DicksenT/Comment-Section](https://github.com/DicksenT/Comment-Section)
+5. 🗣 Commented on [#13441](https://github.com/tailwindlabs/tailwindcss/issues/13441#issuecomment-2039295940) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
 <!--END_SECTION:activity-->
 
 ###
