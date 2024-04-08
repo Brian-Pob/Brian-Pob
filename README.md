@@ -69,11 +69,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.0 - Adding javascript utilities](https://github.com/Brian-Pob/utilities/releases/tag/v1.1.0) in [Brian-Pob/utilities](https://github.com/Brian-Pob/utilities)
-2. 🗣 Commented on [#484](https://github.com/argyleink/open-props/issues/484#issuecomment-2041134029) in [argyleink/open-props](https://github.com/argyleink/open-props)
-3. 🎉 Merged PR [#10](https://github.com/Brian-Pob/sp-24-hci/pull/10) in [Brian-Pob/sp-24-hci](https://github.com/Brian-Pob/sp-24-hci)
-4. 🗣 Commented on [#13457](https://github.com/tailwindlabs/tailwindcss/pull/13457#issuecomment-2040334084) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-5. 🗣 Commented on [#13457](https://github.com/tailwindlabs/tailwindcss/pull/13457#issuecomment-2040316009) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+1. 🗣 Commented on [#493](https://github.com/argyleink/open-props/pull/493#issuecomment-2043458968) in [argyleink/open-props](https://github.com/argyleink/open-props)
+2. 💪 Opened PR [#493](https://github.com/argyleink/open-props/pull/493) in [argyleink/open-props](https://github.com/argyleink/open-props)
+3. 🚀 Published release [v1.1.0 - Adding javascript utilities](https://github.com/Brian-Pob/utilities/releases/tag/v1.1.0) in [Brian-Pob/utilities](https://github.com/Brian-Pob/utilities)
+4. 🗣 Commented on [#484](https://github.com/argyleink/open-props/issues/484#issuecomment-2041134029) in [argyleink/open-props](https://github.com/argyleink/open-props)
+5. 🎉 Merged PR [#10](https://github.com/Brian-Pob/sp-24-hci/pull/10) in [Brian-Pob/sp-24-hci](https://github.com/Brian-Pob/sp-24-hci)
 <!--END_SECTION:activity-->
 
 ###
