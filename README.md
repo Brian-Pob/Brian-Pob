@@ -10,13 +10,15 @@
 
 ###
 
-👀 - I'm mainly a front-end web dev but I love all things computer science!
+🌐 - Front End Engineer at Amazon Finance Automation (FinAuto).
 
-🎓 - Recent Computer Science MS graduate from Florida State University!
+🎓 - Computer Science MS graduate from Florida State University!
 
-🧠 - Learning and experimenting with the following technologies: TypeScript, React 19, CSS @scope rule, Bun, Deno.
+🧠 - Currently working with React, TypeScript, Node.js, Jest, Cypress, AWS CDK, and more!
 
 💙 - Honing my skills in accessibile design and documentation writing. Previous contributions include the [MDN](https://github.com/mdn/content) docs.
+
+🗨️ - "Give me a challenge and I'll meet it with joy."
 
 ###
 
