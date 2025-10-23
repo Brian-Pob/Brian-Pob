@@ -64,17 +64,6 @@
   
 </div>
 
-###
-
-<h2 align="left">:zap: Recent Activity</h2>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Brian-Pob/sp-24-hci/pull/13) in [Brian-Pob/sp-24-hci](https://github.com/Brian-Pob/sp-24-hci)
-2. 💪 Opened PR [#13](https://github.com/Brian-Pob/sp-24-hci/pull/13) in [Brian-Pob/sp-24-hci](https://github.com/Brian-Pob/sp-24-hci)
-3. 🎉 Merged PR [#12](https://github.com/Brian-Pob/sp-24-hci/pull/12) in [Brian-Pob/sp-24-hci](https://github.com/Brian-Pob/sp-24-hci)
-4. 💪 Opened PR [#12](https://github.com/Brian-Pob/sp-24-hci/pull/12) in [Brian-Pob/sp-24-hci](https://github.com/Brian-Pob/sp-24-hci)
-5. 🗣 Commented on [#493](https://github.com/argyleink/open-props/pull/493#issuecomment-2050840714) in [argyleink/open-props](https://github.com/argyleink/open-props)
-<!--END_SECTION:activity-->
 
 ###
 
